@@ -1,2 +1,3 @@
-**MADE IN STARRY SKY.**  
+# MADE IN STARRY SKY.
+
 星空制造
