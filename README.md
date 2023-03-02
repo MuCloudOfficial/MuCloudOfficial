@@ -10,6 +10,6 @@ The Adv.Tech of Twilight Cloud Pavilion
 
 ---
 
-MADE IN STARRY SKY.
+> MADE IN STARRY SKY.
 
-星空制造
+> 星空制造
