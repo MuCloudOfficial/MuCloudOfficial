@@ -1,7 +1,4 @@
-### 中文  
-✨ 你好！ 我是暮云。✨  
-
----
+<h1 align="center">✨ 你好！ 我是暮云。✨</h1>
 
 __关于我__  
 一个略懂 Java C++ C# 的开发者  
@@ -18,8 +15,7 @@ QQ: 1799440647
 
 <br/>
 
-### ENG  
-__✨ Hi! I'm Mu_Cloud ✨__
+<h1 align="center">✨ Hi! I'm Mu_Cloud ✨</h1>
 
 A Java Developer.  
 A Minecraft Plugin Developer.  
