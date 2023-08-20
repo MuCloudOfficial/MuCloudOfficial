@@ -1,5 +1,8 @@
 <h1 align="center">✨ 你好！ 我是暮云。✨</h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark)
+
 __关于我__  
 一个略懂 Java C++ C# 的开发者  
 一个 Minecraft 服务器插件开发者  
