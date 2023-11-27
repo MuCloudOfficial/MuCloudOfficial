@@ -1,7 +1,7 @@
 <h1 align="center">✨ 你好！ 我是暮云。✨</h1>
 
 __关于我__  
-一个略懂 Java C++ C# 的开发者  
+一个略懂 Java Kotlin C++ C# 的开发者  
 一个 Minecraft 服务器插件开发者  
 正在学习 WPF  
 _当然，还有更多..._  
