@@ -21,9 +21,8 @@ QQ: 1799440647
 
 <h1 align="center">✨ Hi! I'm Mu_Cloud ✨</h1>
 
-A Java Developer.  
-A Minecraft Plugin Developer.  
-A C# Developer.  
+A Java, Kotlin, C++, C# Developer.  
+A Minecraft Plugin Developer.    
 Studing WPF.  
 and MORE...  
 
