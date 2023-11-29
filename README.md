@@ -38,5 +38,5 @@ QQ: 1799440647
 
 ---
 
-> ✨ MADE IN STARRY SKY.  
-> ✨ 星空制造  
+> 💮 MADE IN SAKURA OCEAN.  
+> 💮 我们在樱花之海出发  
