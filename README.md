@@ -7,8 +7,6 @@ __关于我__
 正在学习 WPF  
 _当然，还有更多..._
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
-
 ---
 
 __关于组织及联系方式__  
@@ -16,7 +14,10 @@ __关于组织及联系方式__
 邮箱: Mu_Cloud@outlook.fr  
 QQ: 1799440647  
 
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
+
+<br/><br/><br/><br/><br/>
+
 
 <h1 align="center">✨ Hi! I'm Mu_Cloud ✨</h1>
 
