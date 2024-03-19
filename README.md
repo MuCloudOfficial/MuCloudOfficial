@@ -30,9 +30,8 @@ _当然，还有更多..._
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white&color=purple)
 
-![Static Badge](https://img.shields.io/badge/-bukkit-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-bukkit-blue?style=for-the-badge&logo=spigotmc)
 ![Static Badge](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ![Static Badge](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
@@ -54,7 +53,7 @@ _当然，还有更多..._
 ![Static Badge](https://img.shields.io/badge/-Hive-yellow?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-gradle-darkgreen?style=for-the-badge&logo=gradle&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/-forge-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-forge-black?style=for-the-badge&logo=curseforge)
 ![Static Badge](https://img.shields.io/badge/-fabric-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=microsoft)
 
