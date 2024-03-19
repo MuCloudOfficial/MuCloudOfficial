@@ -53,8 +53,14 @@ QQ: 1799440647
 ![Static Badge](https://img.shields.io/badge/-fabric-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=microsoft)
 
+---
+
+:atom: The Adv.Tech of Twilight Cloud Pavilion
 
 ---
+
+> 💮 MADE IN SAKURA OCEAN.  
+> 💮 “纵使深情，难换樱花。”
 
 <br/><br/><br/><br/><br/>
 
