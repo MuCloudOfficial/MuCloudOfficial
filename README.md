@@ -16,6 +16,8 @@ QQ: 1799440647
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
+
 正在使用的语言 & 框架 & 技术 & IDE
 
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
@@ -30,8 +32,6 @@ QQ: 1799440647
 ![Static Badge](https://img.shields.io/badge/-datagrip-pink?style=for-the-badge&logo=datagrip&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-webstorm-aqua?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
 
 ---
 
