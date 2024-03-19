@@ -1,5 +1,5 @@
 <h1 align="center">✨ 你好！ 我是暮云。✨</h1>
-<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
 
 __关于我__  
 一个略懂 Java Kotlin C# 的开发者  
@@ -14,7 +14,7 @@ __关于组织及联系方式__
 邮箱: Mu_Cloud@outlook.fr  
 QQ: 1799440647  
 
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
 
 
 ---
