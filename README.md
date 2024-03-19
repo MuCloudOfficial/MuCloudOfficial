@@ -1,14 +1,13 @@
 <h1 align="center">✨ 你好！ 我是暮云。✨</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
 
 __关于我__  
 一个略懂 Java Kotlin C++ C# 的开发者  
 一个 Minecraft 服务器插件开发者  
 正在学习 WPF  
-_当然，还有更多..._  
+_当然，还有更多..._
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200)  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark)  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark"/>
 
 ---
 
@@ -39,4 +38,4 @@ QQ: 1799440647
 ---
 
 > 💮 MADE IN SAKURA OCEAN.  
-> 💮 我们在樱花之海出发  
+> 💮 “纵使深情，难换樱花。”
