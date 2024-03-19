@@ -3,20 +3,24 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
 
 __关于我__  
-一个略懂 Java Kotlin C# 的开发者  
-一个 Minecraft 服务器插件开发者  
 
-正在与英语四级抗争...  
-想学会德语...  
+- 一个略懂 Java Kotlin C# 的开发者  
+- 一个 Minecraft 服务器插件开发者  
+
+
+- 正在与英语四级抗争...  
+- 想学会德语...  
 
 _当然，还有更多..._
 
 ---
 
 __关于组织及联系方式__  
-组织是暮云阁  
-邮箱: Mu_Cloud@outlook.fr  
-QQ: 1799440647
+
+> 组织是暮云阁
+> 
+> 邮箱: Mu_Cloud@outlook.fr  
+> QQ: 1799440647
 
 ---
 
