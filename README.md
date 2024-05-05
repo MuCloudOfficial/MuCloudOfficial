@@ -50,6 +50,7 @@ _当然，还有更多..._
 ![Static Badge](https://img.shields.io/badge/-HTML_%26_HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-css_%26_css3-orange?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-Hadoop-yellow?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Hive-yellow?style=for-the-badge&logo=apachehive&logoColor=white)
@@ -58,6 +59,8 @@ _当然，还有更多..._
 ![Static Badge](https://img.shields.io/badge/-forge-black?style=for-the-badge&logo=curseforge)
 ![Static Badge](https://img.shields.io/badge/-fabric-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=microsoft)
+
+
 
 ---
 
