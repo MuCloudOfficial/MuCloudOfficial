@@ -1,31 +1,31 @@
-<h1 align="center">✨ 你好！ 我是暮云。✨</h1>
+<h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
 
-### 关于我   
+### About Me   
 
-- 一个略懂 Java Kotlin C# 的开发者  
-- 一个 Minecraft 服务器插件开发者  
+- The Kotlin & C# Developer.
+- A Minecraft Server Plugins Developer.
 
 
-- 正在与英语四级抗争...  
-- 想学会德语...  
+- Battle with CET4 (-_-)
+- Want to learning Germany Language.
 
-_当然，还有更多..._
+_And More..._
 
 ---
 
-### 关于组织及联系方式  
+### Organization & Contact
 
-**组织是暮云阁**  
-**如果你想和我一起快乐 ~~_咕咕咕和摸鱼_~~ 开发的话，欢迎私信我加入暮云阁**
+**Organization: Twilight Cloud Pavilion**  
+**If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contant**
 
-**邮箱: Mu_Cloud@outlook.fr**  
+**Email: Mu_Cloud@outlook.fr**  
 **QQ: 1799440647**
 
 ---
 
-#### 正在使用的语言 & 框架 & 技术 & IDE
+#### I'm Using these following Language & Framework
 
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white&color=purple)
@@ -43,7 +43,7 @@ _当然，还有更多..._
 
 ---
 
-#### 正在学习的语言 & 框架 & 技术
+#### I'm learning these Language & Framework
 
 ![Static Badge](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp)
 ![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -69,30 +69,5 @@ _当然，还有更多..._
 
 ---
 
-> 💮 MADE IN SAKURA OCEAN.  
-> 💮 “纵使深情，难换樱花。”
-
-<br/><br/><br/><br/><br/>
-
-
-<h1 align="center">✨ Hi! I'm Mu_Cloud ✨</h1>
-
-A Java, Kotlin, C# Developer.  
-A Minecraft Plugin Developer.    
-Studing WPF.  
-and MORE...  
-
----
-
-📫 Mu_Cloud@outlook.fr  
-
-QQ: 1799440647
-
----
-
-:atom: The Adv.Tech of Twilight Cloud Pavilion
-
----
-
-> 💮 MADE IN SAKURA OCEAN.  
-> 💮 “纵使深情，难换樱花。”
+> MADE IN VOID LAND.  
+> “似遗殇陌路，亦无复故缘。”
