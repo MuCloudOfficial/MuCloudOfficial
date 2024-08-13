@@ -18,7 +18,7 @@ _And More..._
 ### Organization & Contact
 
 **Organization: Twilight Cloud Pavilion**  
-**If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contant**
+**If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contact**
 
 **Email: Mu_Cloud@outlook.fr**  
 **QQ: 1799440647**
