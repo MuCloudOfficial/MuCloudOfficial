@@ -8,7 +8,7 @@
 - A Minecraft Server Plugins Developer.
 
 
-- Battle with CET4 (-_-)
+- Battling with CET4 (-_-)
 - Want to learning Germany Language.
 
 _And More..._
