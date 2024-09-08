@@ -7,7 +7,7 @@
 - The Kotlin & C# Developer.
 - A Minecraft Server Plugins Developer.
 - Want to learning Germany Language.
-- Battle with CET6 -_-
+- Battling with CET6 -_-
 
 _And More..._
 
