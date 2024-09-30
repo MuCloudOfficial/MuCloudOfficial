@@ -4,7 +4,7 @@
 
 ### About Me   
 
-- The Kotlin & C# Developer.
+- Kotlin & C# Developer.
 - A Minecraft Server Plugins Developer.
 - Want to learning Germany Language.
 - Battling with CET6 -_-
