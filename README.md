@@ -25,7 +25,7 @@ _And More..._
 
 #### I'm Using these following Language & Framework
 
-![Static Badge](https://img.shields.io/badge/Kotlin-JVM-gray?style=for-the-badge&logo=kotlin&labelColor=purple)
+![Static Badge](https://img.shields.io/badge/Kotlin-JVM-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-bukkit_&_Spigot-blue?style=for-the-badge&logo=spigotmc)
@@ -45,8 +45,8 @@ _And More..._
 #### I'm learning these Language & Framework
 
 ![Static Badge](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp)
-![Static Badge](https://img.shields.io/badge/Kotlin-Native-gray?style=for-the-badge&logo=kotlin&labelColor=purple)
-![Static Badge](https://img.shields.io/badge/Kotlin-MultiPlatform-gray?style=for-the-badge&logo=kotlin&labelColor=purple)
+![Static Badge](https://img.shields.io/badge/Kotlin-Native-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kotlin-MultiPlatform-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML_%26_HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-css_%26_css3-orange?style=for-the-badge&logo=css3&logoColor=white)
