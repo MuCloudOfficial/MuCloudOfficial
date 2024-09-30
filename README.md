@@ -35,6 +35,7 @@ _And More..._
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-datagrip-pink?style=for-the-badge&logo=datagrip&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-webstorm-aqua?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=white)
+
 ![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
