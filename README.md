@@ -1,6 +1,8 @@
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
+
+
 
 ### About Me   
 
@@ -11,17 +13,7 @@
 
 _And More..._
 
----
-
-### Organization & Contact
-
-**Organization: Twilight Cloud Pavilion**  
-**If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contact**
-
-**Email: Mu_Cloud@outlook.de**  
-**QQ: 1799440647**
-
----
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
 
 #### I'm Using these following Language & Framework
 
@@ -38,9 +30,6 @@ _And More..._
 
 ![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
----
 
 #### I'm learning these Language & Framework
 
@@ -61,12 +50,19 @@ _And More..._
 ![Static Badge](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=microsoft)
 ![Static Badge](https://img.shields.io/badge/MONGODB-GREEN?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
+### Organization & Contact
 
+**Organization: Twilight Cloud Pavilion**  
+**If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contact**
+
+**Email: Mu_Cloud@outlook.de**  
+**QQ: 1799440647**
 
 ---
 
-:atom: The Adv.Tech of Twilight Cloud Pavilion | 暮云阁高科部
+:atom: Twilight Cloud Pavilion Adv.Tech Department | 暮云阁高科部
 
 ---
 
