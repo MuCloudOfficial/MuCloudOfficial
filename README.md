@@ -9,6 +9,7 @@
 - Kotlin & C# Developer.
 - A Minecraft Server Plugins Developer.
 - Want to learning Germany Language.
+- Battle with Germany Language (probably...)
 
 _And More..._
 
