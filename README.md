@@ -1,4 +1,4 @@
-<img align=center src="./assets/bg.png"/>
+<img align=center src="https://github.com/MuCloudOfficial/MuCloudOfficial/blob/2e47dbc00fb9167ac0ebd1d814492b47a623fbbe/assets/bg.png"/>
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
