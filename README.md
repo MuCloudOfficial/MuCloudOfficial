@@ -1,4 +1,6 @@
-<img align=center src="https://github.com/MuCloudOfficial/MuCloudOfficial/blob/2e47dbc00fb9167ac0ebd1d814492b47a623fbbe/assets/bg.png"/>
+<figure style="width: 100%; height: 300px; overflow: hidden;">
+  <img src="https://s21.ax1x.com/2025/03/30/pEsJF4f.png" style="transform: translate(-50px, -60px);" />
+</figure>
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
@@ -7,7 +9,7 @@
 
 - Kotlin & C# Developer.
 - A Minecraft Server Plugins Developer.
-- Want to learning Germany Language.
+- Want to learn Germany Language.
 - Battle with Germany Language (probably...)
 
 _And More..._
