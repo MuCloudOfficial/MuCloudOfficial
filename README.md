@@ -1,6 +1,4 @@
-<figure style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://s21.ax1x.com/2025/03/30/pEsJF4f.png" style="transform: translate(-50px, -60px);" />
-</figure>
+<img src="https://s21.ax1x.com/2025/03/31/pEsJ056.png"/>
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
