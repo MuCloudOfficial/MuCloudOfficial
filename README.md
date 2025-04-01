@@ -35,6 +35,7 @@ _And More..._
 #### I'm learning these Language & Framework
 
 ![Static Badge](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp)
+![Static Badge](https://img.shields.io/badge/-Ktor-purple?style=for-the-badge&logo=ktor&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-Native-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-MultiPlatform-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
