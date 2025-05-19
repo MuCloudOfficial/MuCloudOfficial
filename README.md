@@ -7,8 +7,8 @@
 
 - Kotlin & C# Developer.
 - A Minecraft Server Plugins Developer.
-- Want to learn Germany Language.
-- Battle with Germany Language (probably...)
+- Want to learn Deutsch.
+- [An osu Player](https://osu.ppy.sh/users/34366132)
 
 _And More..._
 
