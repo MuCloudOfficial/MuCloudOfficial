@@ -22,8 +22,6 @@ _And More..._
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-bukkit_&_Spigot-blue?style=for-the-badge&logo=spigotmc)
-![Static Badge](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/-Ktor-purple?style=for-the-badge&logo=ktor&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML_%26_HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-css_%26_css3-orange?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,26 +29,17 @@ _And More..._
 
 ![Static Badge](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
-![Static Badge](https://img.shields.io/badge/-datagrip-pink?style=for-the-badge&logo=datagrip&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-webstorm-aqua?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=white)
-
-![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
-![Static Badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 #### I'm learning these Language & Framework
 
 ![Static Badge](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp)
 ![Static Badge](https://img.shields.io/badge/Kotlin-Native-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-MultiPlatform-gray?style=for-the-badge&logo=kotlin&labelColor=purple&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/-gradle-darkgreen?style=for-the-badge&logo=gradle&logoColor=white)
-![Static Badge](https://img.shields.io/badge/UNITY-black?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-forge-black?style=for-the-badge&logo=curseforge)
 ![Static Badge](https://img.shields.io/badge/-fabric-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=microsoft)
-![Static Badge](https://img.shields.io/badge/MONGODB-GREEN?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
