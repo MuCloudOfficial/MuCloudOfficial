@@ -26,7 +26,6 @@ _And More..._
 ![Static Badge](https://img.shields.io/badge/-css_%26_css3-orange?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-webstorm-aqua?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=white)
 
