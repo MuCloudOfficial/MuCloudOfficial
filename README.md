@@ -22,8 +22,7 @@ _And More..._
 ![Static Badge](https://img.shields.io/badge/-Ktor-purple?style=for-the-badge&logo=ktor&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-bukkit_&_Spigot-blue?style=for-the-badge&logo=spigotmc)
-![Static Badge](https://img.shields.io/badge/-HTML_%26_HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-css_%26_css3-orange?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
