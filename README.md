@@ -1,7 +1,7 @@
 <img src="https://s21.ax1x.com/2025/03/31/pEsJ056.png"/>
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=451&card_height=200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
 
 ### About Me   
 
@@ -14,7 +14,7 @@ _And More..._
 
 [Project Plan | 计划表](https://mucloudofficial.notion.site/12eb8d50929380f89837f311e32af81b?v=c6fe91be38b04e62a8bf50ddd0877050)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=351&card_height=200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuCloudOfficial&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
 
 #### I'm Using these following Language & Framework
 
