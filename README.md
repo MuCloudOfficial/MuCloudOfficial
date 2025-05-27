@@ -56,3 +56,6 @@ _And More..._
 
 > MADE IN VOID LAND.  
 > “似遗殇陌路，亦无复故缘。”
+
+![Light mode image](profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![Dark mode image](profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
