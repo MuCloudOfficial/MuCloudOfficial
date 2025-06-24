@@ -5,7 +5,7 @@
 
 ### About Me   
 
-- Kotlin & C# Developer.
+- Kotlin & Java Developer.
 - A Minecraft Server Plugins Developer.
 - Want to learn Deutsch.
 - [An osu Player](https://osu.ppy.sh/users/34366132)
