@@ -41,7 +41,7 @@ _And More..._
 
 ### Organization & Contact
 
-**Organization: Twilight Cloud Pavilion**  
+**Organization: MuVerse**  
 **If you want to during happily Development time and ~~_GuGuGu\~\~_~~ with me，welcome to contact**
 
 **Email: Mu_Cloud@outlook.de**  
@@ -49,7 +49,7 @@ _And More..._
 
 ---
 
-:atom: Twilight Cloud Pavilion Adv.Tech Department | 暮云阁高科部
+:atom: MuVerse·MuProject | 暮云阁·暮の企画
 
 ---
 
