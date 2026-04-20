@@ -1,4 +1,4 @@
-<img src="./assets/kazusa-banner.webp"/>
+<img src="./assets/kazusa-banner.jpg"/>
 <h1 align="center">✨ Hi! I'm Mu_Cloud✨</h1>
 
 <img align="right" src="https://mu-github-stats.vercel.app/api?username=MuCloudOfficial&show_icons=true&theme=github_dark&card_width=500&card_height=200"/>
