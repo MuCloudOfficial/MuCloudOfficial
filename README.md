@@ -8,6 +8,7 @@
 - Kotlin & Java Developer.
 - A Minecraft Server Plugins Developer.
 - [An osu Player](https://osu.ppy.sh/users/34366132)
+- **Learning Traditional Chinese Pharmacy**
 
 _And More..._
 
